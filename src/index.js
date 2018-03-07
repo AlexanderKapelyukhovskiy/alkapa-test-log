@@ -49,8 +49,6 @@ const json = function(object) {
   console.log(inspect(object)) //eslint-disable-line
 }
 
-
-
 const log = {
   info,
   error,
