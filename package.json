@@ -1,6 +1,6 @@
 {
   "name": "alkapa-test-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "pet package for learning npm package flow",
   "main": "lib/index.js",
   "scripts": {
