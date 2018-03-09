@@ -58,11 +58,4 @@ const log = {
   json
 }
 
-log.info('info')
-log.error('error')
-log.debug('debug')
-log.done('done')
-log.warn('warn')
-log.json({json: 'val'})
-
 export default log
