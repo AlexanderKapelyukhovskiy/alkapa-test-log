@@ -5,7 +5,7 @@ First pet npm package I used for learning npm package publish flow
 * yarn add alkapa-test-log
 
 ## run
-* const log = require('alkapa-test-log')
+* const log = require('alkapa-test-log').default
 * log.info('info')
 * log.error('error')
 * log.debug('debug')
